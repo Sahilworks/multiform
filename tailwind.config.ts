@@ -62,6 +62,12 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        // Custom doctor registration colors
+        "doc-primary": "#22919A",
+        "doc-text": "#021C5A",
+        "doc-accent": "#88AA47",
+        "doc-secondary": "#3398A0",
+        "doc-info": "#06A7DC",
       },
       borderRadius: {
         lg: "var(--radius)",
